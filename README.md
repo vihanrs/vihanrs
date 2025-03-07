@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vihan-rs</h1>
 <h3 align="center">A passionate full-stack developer who turns ideas into reality in a world of 0's and 1's.</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vihanrs&theme=onedark" alt="Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -85,18 +79,15 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
+<div>
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vihanrs&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vihanrs&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vihanrs&" alt="GitHub Streak" />
-</p>
-
+</div>
 ---
 
 ### 🎯 Fun Fact:
