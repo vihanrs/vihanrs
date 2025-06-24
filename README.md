@@ -6,8 +6,7 @@
 ### 🚀 About Me
 
 - 🌱 I’m currently learning **React, Next.js, SpringBoot**  
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.vihanrs.com/)**  
-- 📝 I regularly write articles on **[Medium](https://medium.com/@vihanrs)**  
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://www.vihanrs.com/)**   
 - 📫 How to reach me: **vihanvrs@gmail.com**  
 
 ---
